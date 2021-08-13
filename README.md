@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="/Fig/Capture.PNG"></p><br/> 
 
-Welcome to the official repo of the recently accepted ICCV 2021 paper **HIRE-SNN: Harnessing the Inherent Robustness of Energy-EfficientDeep Spiking Neural Networks by Training with Crafted Input Noise**.
+Welcome to the official repo of the recently accepted ICCV 2021 paper **HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise**.
 
 
 ### Authors:
