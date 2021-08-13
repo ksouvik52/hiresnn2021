@@ -1,5 +1,12 @@
+### HIRE-SNN: Harnessing the Inherent Robustness of Energy-EfficientDeep Spiking Neural Networks by Training with Crafted Input Noise
+
+### Authors:
+1. **Souvik Kundu** (souvikku@usc.edu)
+2. Massoud Pedram (pedram@usc.edu)
+3. Peter A. Beerel (pabeerel@usc.edu)
+
 ### Version on which the models were tested:
-========================================
+
 Pytorch version: 1.5.1
 Python version: 3.8.3
 
