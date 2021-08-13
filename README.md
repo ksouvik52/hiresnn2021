@@ -14,7 +14,7 @@ Python version: 3.8.3
 ===============
 #### A. HIRE SNN models:
 1. [vgg11_cifar100_hiresnn_tstep8_bb_test_model](https://drive.google.com/file/d/1cjNVZ0wx6R8cVJD9ivU9GBOL0wr6ZCeu/view?usp=sharing)
-2. [vgg11_cifar100_hiresnn_tstep8_bb_test_model](https://drive.google.com/file/d/1MdOyBL_NqMxgsTy_c62Xc7-ek2pO2DPB/view?usp=sharing)
+2. [vgg11_cifar100_hiresnn_tstep8_model](https://drive.google.com/file/d/1MdOyBL_NqMxgsTy_c62Xc7-ek2pO2DPB/view?usp=sharing)
 #### B. Traditional SNN models:
 
 ### To test adversarial accuracy of a saved model, please perform the following:
