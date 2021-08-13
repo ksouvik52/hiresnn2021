@@ -21,7 +21,7 @@ Python version: 3.8.3
 1. [vgg11_cifar100_tradit_bb_test_model](https://drive.google.com/file/d/11NmAGUmbZ4WD3U1DMoQs5tDwbBDG-rjD/view?usp=sharing)
 2. [vgg11_cifar100_tradit_model](https://drive.google.com/file/d/1GgW-dITrh2reHz6SadqpgN0RTGWoJGRm/view?usp=sharing)
 ### To test adversarial accuracy of a saved model, please perform the following:
-
+Create two folders named *HIRE_SNN_models* and *traditional_models*. Download the models to their respective folder locations.
 #### 1. HIRE SNN testing:
 a) To test HIRE SNN: select folder/file location: HIRE_SNN_models/vgg11_cifar100_hiresnn_tstep8_model.pt (as pretrained_snn)
 and 
