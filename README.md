@@ -14,7 +14,7 @@ Low-latency deep spiking neural networks (SNNs) havebecome  a  promising  altern
 
 ### Version on which the models were tested:
 
-* Pytorch version: `1.5.1`.
+* PyTorch version: `1.5.1`.
 * Python version: `3.8.3`.
 
 ### Model download:
