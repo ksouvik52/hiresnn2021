@@ -44,6 +44,6 @@ If you find this project useful to you, please cite our work:
       @inproceedings
       {kundu2021hire, 
       author  ={S. {Kundu} and M. {Pedram} and P. A. {Beerel}}, 
-      journal ={Proceedings of the IEEE/CVF International Conference on Computer Vision}, 
+      booktitle ={Proceedings of the IEEE/CVF International Conference on Computer Vision}, 
       title   ={HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise}, 
       year    ={2021}}
