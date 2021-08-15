@@ -37,3 +37,13 @@ a) To test traditional SNN: select folder/file location: traditional_models/vgg1
 and 
 traditional_models/vgg11_cifar100_tradit_bb_test_model.pt as pretrained_snn_bb (this is for black box testing only)
 2. b) run command: python run_snn_tradit_test.py
+
+### Cite this work
+If you find this project useful to you, please cite our work:
+
+      @misc
+      {kundu2021hire, 
+      author  ={S. {Kundu} and M. {Pedram} and P. A. {Beerel}}, 
+      journal ={IEEE International Conference on Computer Vision}, 
+      title   ={HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise}, 
+      year    ={2021},}
