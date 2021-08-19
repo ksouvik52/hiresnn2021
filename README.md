@@ -1,5 +1,8 @@
 <p align="center"><img width="30%" src="/Fig/Capture.PNG"></p><br/> 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
 Welcome to the official repo of the `ICCV 2021` paper **`HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise`**.
 
 ### Abstract:
