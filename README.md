@@ -46,9 +46,10 @@ traditional_models/vgg11_cifar100_tradit_bb_test_model.pt as pretrained_snn_bb (
 ### Cite this work
 If you find this project useful to you, please cite our work:
 
-      @inproceedings
-      {kundu2021hire, 
-      author  ={S. {Kundu} and M. {Pedram} and P. A. {Beerel}}, 
-      booktitle ={Proceedings of the IEEE/CVF International Conference on Computer Vision}, 
-      title   ={HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training with Crafted Input Noise}, 
-      year    ={2021}}
+      @InProceedings{Kundu_2021_ICCV,
+    author    = {Kundu, Souvik and Pedram, Massoud and Beerel, Peter A.},
+    title     = {HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training With Crafted Input Noise},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {5209-5218}}
