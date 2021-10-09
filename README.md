@@ -53,3 +53,7 @@ If you find this project useful to you, please cite our work:
     month     = {October},
     year      = {2021},
     pages     = {5209-5218}}
+    
+###Acknowledgment
+[Hybrid SNN repo](https://github.com/nitin-rathi/hybrid-snn-conversion)
+
