@@ -28,7 +28,7 @@ Low-latency deep spiking neural networks (SNNs) havebecome  a  promising  altern
 2. [vgg11_cifar100_hiresnn_tstep8_model](https://drive.google.com/file/d/1huAXyOzdwlVHS2xsbyLdwr_fgwbdLIGQ/view?usp=sharing)
 #### B. Traditional SNN models:
 1. [vgg11_cifar100_tradit_bb_test_model](https://drive.google.com/file/d/1GNrDCu7uD8IBAea6sHue84YEwoGd8t1G/view?usp=sharing)
-2. [vgg11_cifar100_tradit_model](https://drive.google.com/file/d/1GgW-dITrh2reHz6SadqpgN0RTGWoJGRm/view?usp=sharing)
+2. [vgg11_cifar100_tradit_model](https://drive.google.com/file/d/1sayiUKccwrn0X77hAm-eiZUzVxcO3KhH/view?usp=sharing)
 ### To test adversarial accuracy of a saved model, please follow these steps:
 Create two folders named *`HIRE_SNN_models`* and *`traditional_models`*. Download the models to their respective folder locations.
 #### 1. HIRE SNN testing:
