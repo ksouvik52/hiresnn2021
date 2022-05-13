@@ -24,10 +24,10 @@ Low-latency deep spiking neural networks (SNNs) havebecome  a  promising  altern
 
 ### Model download:
 #### A. HIRE-SNN models:
-1. [vgg11_cifar100_hiresnn_tstep8_bb_test_model](https://drive.google.com/file/d/1cjNVZ0wx6R8cVJD9ivU9GBOL0wr6ZCeu/view?usp=sharing)
-2. [vgg11_cifar100_hiresnn_tstep8_model](https://drive.google.com/file/d/1MdOyBL_NqMxgsTy_c62Xc7-ek2pO2DPB/view?usp=sharing)
+1. [vgg11_cifar100_hiresnn_tstep8_bb_test_model](https://drive.google.com/file/d/1iDDaO3EZnEPk9JaAn2tCL5M80d8DWxv3/view?usp=sharing)
+2. [vgg11_cifar100_hiresnn_tstep8_model](https://drive.google.com/file/d/1huAXyOzdwlVHS2xsbyLdwr_fgwbdLIGQ/view?usp=sharing)
 #### B. Traditional SNN models:
-1. [vgg11_cifar100_tradit_bb_test_model](https://drive.google.com/file/d/11NmAGUmbZ4WD3U1DMoQs5tDwbBDG-rjD/view?usp=sharing)
+1. [vgg11_cifar100_tradit_bb_test_model](https://drive.google.com/file/d/1GNrDCu7uD8IBAea6sHue84YEwoGd8t1G/view?usp=sharing)
 2. [vgg11_cifar100_tradit_model](https://drive.google.com/file/d/1GgW-dITrh2reHz6SadqpgN0RTGWoJGRm/view?usp=sharing)
 ### To test adversarial accuracy of a saved model, please follow these steps:
 Create two folders named *`HIRE_SNN_models`* and *`traditional_models`*. Download the models to their respective folder locations.
